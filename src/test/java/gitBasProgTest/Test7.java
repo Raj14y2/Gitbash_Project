@@ -1,8 +1,12 @@
 package gitBasProgTest;
 
+import org.testng.annotations.Test;
+
 public class Test7 {
 
-	public static void main(String[] args) {
+	@Test
+	public void test7()
+	{
 		System.out.println("--test script ondu---");
 
 	}

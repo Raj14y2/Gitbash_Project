@@ -1,11 +1,14 @@
 package gitBasProgTest;
 
+import org.testng.annotations.Test;
+
 public class Test3 
 {
 
-	public static void main(String[] args)
+	@Test(groups = "smoke")
+	public void test3()
 	{
-		System.out.println("--test script 3---");
+		System.out.println("--test Script three---");
 
 	}
 }
