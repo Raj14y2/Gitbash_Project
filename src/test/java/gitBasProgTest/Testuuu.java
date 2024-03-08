@@ -2,7 +2,7 @@ package gitBasProgTest;
 
 import org.testng.annotations.Test;
 
-public class Test6 {
+public class Testuuu {
 
 
 	@Test(groups = {"smoke","regression"})

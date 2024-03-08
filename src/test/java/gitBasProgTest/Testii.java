@@ -2,7 +2,7 @@ package gitBasProgTest;
 
 import org.testng.annotations.Test;
 
-public class Test7 {
+public class Testii {
 
 	@Test
 	public void test7()
